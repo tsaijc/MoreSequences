@@ -9,7 +9,8 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ----------------------------------------------------------------------
-# DONE: 2. READ the program below and RUN it.
+# DONE
+# : 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
 #   and you feel that you understand,
